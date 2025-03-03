@@ -1,6 +1,8 @@
 {
 	"name": "netflix-clone",
 	"version": "1.0.0",
+	"main": "index.js",
+	"engines": "22.x",
 	"description": "",
 	"main": "backend/server.js",
 	"scripts": {
